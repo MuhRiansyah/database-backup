@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Apr 20, 2016 at 08:31 AM
+-- Generation Time: Apr 21, 2016 at 01:27 AM
 -- Server version: 5.5.27
 -- PHP Version: 5.4.7
 
@@ -1040,7 +1040,7 @@ CREATE TABLE IF NOT EXISTS `tokos` (
 INSERT INTO `tokos` (`id`, `logo`, `nama`, `kecamatan`, `kabupatenId`, `provinsiId`, `deskripsi`) VALUES
 (1, 'logo-toko.png', 'barokah', 'baruga', 44, 3, 'menjual buku-buku terbaik'),
 (2, 'logo-toko.png', 'jaya', 'baruga', 1, 3, 'menjual barang-barang elektronik rumah tangga'),
-(3, 'logo-toko.png', 'makmur', 'baruga', 1, 3, 'menjual kue-kue kering dan basah kesukaan anda'),
+(3, 'logo-toko.png', 'makmurjaya', 'baruga', 1, 3, 'menjual kue-kue kering dan basah kesukaan anda'),
 (4, 'logo-toko.png', 'baju-trendy', 'baruga', 1, 3, 'menjual baju trendi masa kini');
 
 -- --------------------------------------------------------
